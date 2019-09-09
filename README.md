@@ -48,5 +48,8 @@ Should seems this like that. Choose and give a text.
 
  - Sometimes some of the letters may appear undefined when words are encrypted.
  - [Click](https://drive.google.com/open?id=1gc6TAdK_d7zGNLFbTRn7vx-cuZgh_9I2) to see the error I mentioned.
+ 
+ 
+ //09.09.2019
 	
 	
