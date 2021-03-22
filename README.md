@@ -26,7 +26,7 @@ This software was created using PI numbers. For example;
  **2.Terminal:** If you try this program you must download all files and start the terminal in the directory where the project is located.
  
 
-    python Main.py
+    python main.py
     Press for Encrypt(1) or Decrypt(2) QUIT(Q or q)
     What is your process?
 
