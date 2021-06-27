@@ -1,4 +1,4 @@
-import cryponfurt
+import cryptisaac
 
 print("\nPress for Encrypt(1) or Decrypt(2) QUIT(Q or q)\n")
 
@@ -10,10 +10,10 @@ while True:
         break
     elif proc=="1":
         text=input("give me a text: ")
-        cryponfurt.encrypt(text)
+        cryptisaac.encrypt(text)
     elif proc=="2":
         text=input("give me a text: ")
-        cryponfurt.decrypt(text)
+        cryptisaac.decrypt(text)
     else:
         print("ERROR!! Try Again.")
 
