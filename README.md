@@ -1,5 +1,5 @@
-﻿## What is the cryponfurt?
-cryponfurt is a string(text) encryption program. You can encrypt and decrypt encrypted messages.
+﻿## What is the cryptisaac?
+cryptisaac is a string(text) encryption program. You can encrypt and decrypt encrypted messages.
 
 ## How it works?
 This software was created using PI numbers. For example;
@@ -17,11 +17,11 @@ This software was created using PI numbers. For example;
 
 ## How Can I Use It?
 
- **1. Add project:** If you want to add it to your project, you must copy it to your project directory (cust "cryponfurt.py") and in which program you want to use "import cryponfurt" you need to add the code.
+ **1. Add project:** If you want to add it to your project, you must copy it to your project directory (cust "cryptisaac.py") and in which program you want to use "import cryptisaac" you need to add the code.
 
-    import cryponfurt
-    cryponfurt.encrypt("mkemal") ##for encrypt
-    cryponfurt.decrypt("plinfu") ##for decrypt
+    import cryptisaac
+    cryptisaac.encrypt("mkemal") ##for encrypt
+    cryptisaac.decrypt("plinfu") ##for decrypt
 
  **2.Terminal:** If you try this program you must download all files and start the terminal in the directory where the project is located.
  
